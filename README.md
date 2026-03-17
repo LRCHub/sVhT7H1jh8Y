@@ -1,0 +1,86 @@
+# Digable Planets – Rebirth Of Slick (Cool Like Dat)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:39.33] We like the breeze flow straight out of our lids
+[00:41.78] Them they got moved by these hard rock Brooklyn kids
+[00:44.05] Us flow a rush when the DJ's boomin' classics
+[00:46.34] You dig the crew on the fattest hip hop records
+[00:49.00] He touch the kinks and sinks into the sounds
+[00:51.39] She frequents the fatter joints called undergrounds
+[00:53.82] Our funk zooms like you hit the Mary Jane
+[00:56.38] They flock to booms man, boogie had to change
+[00:58.75] Who freaks the clips with mad amount percussion
+[01:01.12] Where kinky hair goes to unthought-of dimensions
+[01:03.51] Why's it so fly 'cause hip-hop kept some drama
+[01:06.02] When Butterfly rocked the light blue-suede Pumas
+[01:08.59] What by the cut we push it off the corner
+[01:11.07] How was the buzz entire hip-hop era?
+[01:13.35] Was fresh in fact since they started sayin' outie
+[01:15.84] 'Cause funks made fat from right beneath my hoodie
+[01:18.11] The puba of the styles like miles and shit
+[01:20.56] Like sixties funky worms with waves and perms
+[01:22.80] Just sendin' junky rhythms right down ya block
+[01:45.80] 
+[01:25.38] We be to rap what key be to lock
+[01:27.86] But I'm cool like dat, I'm cool like dat
+[01:30.18] I'm cool like dat, Im' cool like dat
+[01:32.64] I'm cool like dat, I'm cool like dat
+[01:35.18] I'm cool like dat, I'm cool
+[01:48.68] 
+[01:37.82] We be the chocolates taps on my raps
+[01:40.35] She innovates at the sweeta cat naps
+[01:42.76] He at the funk club with the vibrate
+[01:45.01] Them, they be crazy down with the five plate
+[01:47.55] It can kick a plan then a crowd burst
+[01:49.85] Me, I be diggin' it with a bump verse
+[01:52.53] Us, we be freakin 'til dawn blinks an eye
+[01:55.08] He gives the strangest smile so I say hi (wassup)
+[01:57.64] Who understood, yeah, understood the plans?
+[01:59.79] Him heard a beat and put it to his hands
+[02:02.32] What I just flip let borders get loose
+[02:04.84] How to consume or they'll be just like juice
+[02:07.18] If it's the shit we'll lift it off the plastic
+[02:09.46] The babes'll go spastic, hip-hop gains a classic
+[02:12.03] Pimp playin' shock, it don't matter, I'm fatter
+[02:14.13] Ax Butta how I zone (man Cleopatra Jones)
+[02:34.63] 
+[02:16.78] And I'm chill like dat, I'm chill like dat
+[02:19.35] I'm chill like dat, I'm chill like dat
+[02:21.66] I'm chill like dat, I'm chill like dat
+[02:24.07] I'm chill like dat, I'm chill
+[02:38.57] 
+[02:33.82] Blink, blink, blink, blink, blink, blink, blink
+[02:57.32] 
+[02:43.62] Think, think, think, think, think, think, think
+[03:07.12] 
+[02:46.11] We get ya free 'cause the clips be fat boss
+[02:48.64] Them, they're the jams and commence to goin off
+[02:51.06] She sweats the beat and ask me 'cause she puffed it
+[02:53.52] Me, I got crew kids, seven and a crescent
+[02:56.02] Us 'cause a buzz when the nickel bags are dealt
+[02:58.33] Him, that's my man with the asteroid belt
+[03:00.71] They catch a fizz from the Mr. Doodle-big
+[03:03.17] He rocks a tee from the Crooklyn non-pigs
+[03:05.52] The rebirth of slick like my gangsta stroll
+[03:08.03] The lyrics just like you, come and stack some roles
+[03:10.33] You used to find a bug in a box with fade
+[03:12.88] Now he boogies up your stage, plaits twist or braids
+[03:38.88] 
+[03:15.25] And I'm peace like dat, I'm peace like dat
+[03:17.79] I'm peace like dat, I'm peace like dat
+[03:20.14] I'm peace like dat, I'm peace like dat
+[03:22.59] I'm peace like dat, I'm peace (check it out, man)
+[03:47.09] 
+[03:25.07] And I groove like dat, I'm smooth like dat
+[03:27.58] I jive like dat, I roll like dat
+[03:29.88] Yeah, I'm thick like dat, I stack like dat
+[03:32.50] I'm down like dat, I'm black like dat
+[03:51.00] 
+[03:34.43] Well yo, I funk like dat, I'm fat like dat
+[03:37.27] I'm in like dat 'cause I swing like dat
+[03:39.66] We jazz like dat, we freak like dat
+[03:42.16] We zoom like dat
+[03:43.31] We out
+```
