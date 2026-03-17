@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Rebirth Of Slick (Cool Like Dat)",
+  "base_artist": "Digable Planets",
+  "createdAt": "2026-03-17T21:12:33.766886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/01_Rebirth_of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rebirth Of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/02_Rebirth_Of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "REBIRTH OF SLICK (COOL LIKE DAT)",
+      "artist": "Kassa Overall",
+      "has_synced": true,
+      "path": "select/03_REBIRTH_OF_SLICK_(COOL_LIKE_DAT)_Kassa_Overall.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/04_Rebirth_of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rebirth Of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/05_Rebirth_Of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/06_Rebirth_of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/07_Rebirth_of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/08_Rebirth_of_Slick_(Cool_Like_Dat)_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": false,
+      "path": "select/09_Rebirth_of_Slick_(Cool_Like_Dat)_Digable_Planets.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rebirth Of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "has_synced": false,
+      "path": "select/pl_01_Rebirth_Of_Slick_(Cool_Like_Dat)_Digable_Planets.txt"
+    }
+  ]
+}
